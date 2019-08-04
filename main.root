@@ -1,0 +1,4 @@
+root{
+  string name = "daniel";
+  print("$name"); // daniel
+}
